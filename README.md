@@ -39,10 +39,6 @@ Estudiante avanzado de Ingeniería en Informática en la Universidad FASTA, dond
 
 <br>
 
-- **Extras**:
-
-    ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
 
 </p>
 
