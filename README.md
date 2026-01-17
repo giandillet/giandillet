@@ -4,11 +4,10 @@
 
 <br>
 
-Estudiante avanzado de Ingeniería en Informática en la Universidad FASTA, donde he adquirido sólidos conocimientos en diversas áreas de la tecnología y la programación. A lo largo de mi formación, he participado en proyectos que me han permitido aplicar conocimientos teóricos a situaciones reales, adquiriendo experiencia en la resolución de problemas complejos y en el trabajo en equipo.
-
+Analista en Informática.
+Auxiliar Técnico de Sistemas con orientación a bases de datos y sistemas Linux. Trabajo en soporte técnico interno al área de IT, participando en tareas de administración básica de servidores Linux, análisis e interpretación de logs, monitoreo de procesos y servicios, y configuración y pruebas de replicación de bases de datos MySQL (master–slave). Me encuentro en constante aprendizaje, con interés en profundizar en bases de datos, sistemas y backend.
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -17,57 +16,20 @@ Estudiante avanzado de Ingeniería en Informática en la Universidad FASTA, dond
 
 - **Lenguajes de programación**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-  	![C](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![C](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+	![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    
-
-<br>   
-    
-- **Desarrollo FrontEnd**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![C](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   
 
-<br>
 
-- **Base de datos**:
+- **Databases**:
 
-    ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+	![SQL Server](https://img.shields.io/badge/SQL%20Server%20-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
        
 
-<br>
 
 
-</p>
-
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM4Z2Zpa293cDkzN252cXhjejhxdmdtNWh6NjFvNXRzZTdicnB1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width ="25"><b> Github</b>
-
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/giandillet/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giandillet&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="giandillet"/>
-
-</a>
-</div>
-
-<br>
-
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <b> Contacto</b>
 <br>
