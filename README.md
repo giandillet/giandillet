@@ -5,6 +5,7 @@
 <br>
 
 Analista en Informática.
+<br>
 Auxiliar Técnico de Sistemas con orientación a bases de datos y sistemas Linux. Trabajo en soporte técnico interno al área de IT, participando en tareas de administración básica de servidores Linux, análisis e interpretación de logs, monitoreo de procesos y servicios, y configuración y pruebas de replicación de bases de datos MySQL (master–slave). Me encuentro en constante aprendizaje, con interés en profundizar en bases de datos, sistemas y backend.
 <br>
 
