@@ -4,9 +4,12 @@
 
 <br>
 
-Analista en Informática.
+Soporte Técnico - Área de Sistemas en Diario la Capital
 <br>
-Auxiliar Técnico de Sistemas con orientación a bases de datos y sistemas Linux. Trabajo en soporte técnico interno al área de IT, participando en tareas de administración básica de servidores Linux, análisis e interpretación de logs, monitoreo de procesos y servicios, y configuración y pruebas de replicación de bases de datos MySQL (master–slave). Me encuentro en constante aprendizaje, con interés en profundizar en bases de datos, sistemas y backend.
+Analista en Informática con experiencia en administración de servidores Linux (Ubuntu), bases de datos MySQL y
+soporte técnico en entornos productivos. Conocimientos en SQL, automatización de tareas y gestión de
+infraestructura. Interés en continuar desarrollándome profesionalmente en administración de sistemas, bases de
+datos y backend.
 <br>
 
 
