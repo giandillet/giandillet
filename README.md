@@ -5,6 +5,7 @@
 <br>
 
 Soporte Técnico - Área de Sistemas en Diario la Capital
+
 <br>
 Analista en Informática con experiencia en administración de servidores Linux (Ubuntu), bases de datos MySQL y
 soporte técnico en entornos productivos. Conocimientos en SQL, automatización de tareas y gestión de
