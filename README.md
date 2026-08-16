@@ -17,7 +17,7 @@ Auxiliar Técnico de Sistemas con orientación a bases de datos y sistemas Linux
 
 - **Lenguajes de programación**:
     
-	![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![C](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   
