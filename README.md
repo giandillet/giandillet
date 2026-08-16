@@ -11,6 +11,7 @@ Analista en Informática con experiencia en administración de servidores Linux 
 soporte técnico en entornos productivos. Conocimientos en SQL, automatización de tareas y gestión de
 infraestructura. Interés en continuar desarrollándome profesionalmente en administración de sistemas, bases de
 datos y backend.
+
 <br>
 
 
